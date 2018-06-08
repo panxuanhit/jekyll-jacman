@@ -8,4 +8,4 @@ categories:
 ---
 
 
-[jupytertest](https://github.com/panxuanhit/panxuanhit.github.io/blob/master/_posts/test.ipynb)
+[jupytertest](http://nbviewer.jupyter.org/github/panxuanhit/panxuanhit.github.io/tree/master/_posts/test.ipynb)
